@@ -135,6 +135,22 @@
             }
         },
         {
+            "Key": "4d43bb2d-29d5-423a-97de-78efc196dfad",
+            "Value": {
+                "id": "816a3858-2757-4070-b303-6d3a9020150d",
+                "resourcePath": "scripts\\Animation_End\\Animation_End.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "55d627ed-ca53-4c21-87a9-be22afa71448",
+            "Value": {
+                "id": "fedf394a-2437-47a8-8bdc-f0f30bc41275",
+                "resourcePath": "views\\55d627ed-ca53-4c21-87a9-be22afa71448.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5ef9f11d-616e-40bf-8341-0b6712cdac95",
             "Value": {
                 "id": "1ede8307-654e-4cec-936c-5b8e8ec71f19",
@@ -188,6 +204,14 @@
                 "id": "fe6b93bf-1fad-4258-8363-9e6719e59d8e",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "87c566f6-d48c-4844-bdec-189ab4df3b83",
+            "Value": {
+                "id": "22420312-76ad-4da9-83a8-862d60f39905",
+                "resourcePath": "scripts\\PlayerState_Free\\PlayerState_Free.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -287,6 +311,14 @@
             }
         },
         {
+            "Key": "cd6066cb-539b-4d56-9158-a3935a1a6bac",
+            "Value": {
+                "id": "7fd4da36-bdd5-4eee-bd28-52b3c720452a",
+                "resourcePath": "scripts\\Basic_Player_Movement\\Basic_Player_Movement.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "c6309c3b-1fd9-445c-afbe-cde6598cf658",
@@ -308,6 +340,14 @@
                 "id": "66d580fa-4a39-489f-b44f-9fd726fc3c4f",
                 "resourcePath": "views\\e9a234b6-b05b-4d6f-a747-57b28260db24.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eba75250-0d7e-4999-885e-e8e831f64224",
+            "Value": {
+                "id": "db39a995-a175-4a1b-8915-17d21fe2b40f",
+                "resourcePath": "scripts\\PlayerState_Skill\\PlayerState_Skill.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -352,7 +392,10 @@
         }
     ],
     "script_order": [
-        
+        "cd6066cb-539b-4d56-9158-a3935a1a6bac",
+        "87c566f6-d48c-4844-bdec-189ab4df3b83",
+        "eba75250-0d7e-4999-885e-e8e831f64224",
+        "4d43bb2d-29d5-423a-97de-78efc196dfad"
     ],
     "tutorial": ""
 }
