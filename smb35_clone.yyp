@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "6c62723b-b2c4-48f8-838c-eb7881da4c84",
+            "Value": {
+                "id": "4c98a6bf-4060-4f4e-a401-7bc3bad5d9b3",
+                "resourcePath": "sprites\\spr_lava\\spr_lava.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "9da38d38-6738-443a-8bd2-d3bbc0f12341",
