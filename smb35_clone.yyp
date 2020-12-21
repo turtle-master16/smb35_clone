@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "60fe07c6-c1e6-4fc0-ba3d-d952f52394d3",
+            "Value": {
+                "id": "b57b025f-1312-4367-917e-db24c3042279",
+                "resourcePath": "sprites\\spr_joe_idle\\spr_joe_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6c62723b-b2c4-48f8-838c-eb7881da4c84",
             "Value": {
                 "id": "4c98a6bf-4060-4f4e-a401-7bc3bad5d9b3",
@@ -235,6 +243,14 @@
             "Value": {
                 "id": "5c4b0a6a-4547-4aea-8464-dae16f208662",
                 "resourcePath": "sprites\\spr_lawrence_activate_skill\\spr_lawrence_activate_skill.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8df1f530-1375-4011-bdff-d94a44368398",
+            "Value": {
+                "id": "70b02620-9c72-47e7-90bc-b62f5c34a8ee",
+                "resourcePath": "sprites\\spr_joe_walk\\spr_joe_walk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -319,6 +335,14 @@
             }
         },
         {
+            "Key": "c7497d16-ac3b-485c-9b09-f6f45866f40b",
+            "Value": {
+                "id": "329a7370-bb7a-4d55-ba0c-20be4ccfd469",
+                "resourcePath": "sprites\\spr_joe_activate_skill\\spr_joe_activate_skill.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c83cdb9a-9d6c-4bc4-9264-31d04b83cb79",
             "Value": {
                 "id": "cb76f722-b11b-4fb4-89d3-731b76763edf",
@@ -348,6 +372,14 @@
                 "id": "7fd4da36-bdd5-4eee-bd28-52b3c720452a",
                 "resourcePath": "scripts\\Basic_Player_Movement\\Basic_Player_Movement.yy",
                 "resourceType": "GMScript"
+            }
+        }
+        {
+            "Key": "d50cf402-6a3a-4b50-9805-02aa0819f34c",
+            "Value": {
+                "id": "f11ced67-5bf7-430a-a5b2-d8e06529b369",
+                "resourcePath": "sprites\\spr_joe_jump\\spr_joe_jump.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
