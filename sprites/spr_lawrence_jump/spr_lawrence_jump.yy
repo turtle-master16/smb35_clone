@@ -2,7 +2,7 @@
     "id": "096f6ef5-0004-4503-a160-9bc95ef7ec90",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_lawrence_jumping",
+    "name": "spr_lawrence_jump",
     "For3D": false,
     "HTile": false,
     "VTile": false,

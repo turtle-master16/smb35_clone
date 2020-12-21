@@ -2,7 +2,7 @@
     "id": "82b77514-15c9-45e9-b233-34dd4515b83b",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_lawrence_walking",
+    "name": "spr_lawrence_walk",
     "For3D": false,
     "HTile": false,
     "VTile": false,
