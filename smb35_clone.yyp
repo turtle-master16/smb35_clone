@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "09b9e7d4-934d-4f8a-809e-2331038c30ee",
+            "Value": {
+                "id": "91887380-fe74-48c1-9b12-43f8ded4fc54",
+                "resourcePath": "views\\09b9e7d4-934d-4f8a-809e-2331038c30ee.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "144e9894-58e8-409f-b62c-6e280fc84cc7",
             "Value": {
                 "id": "97be17e4-b875-4e19-800c-894897d8b8d5",
@@ -75,6 +83,14 @@
             "Value": {
                 "id": "3729e673-02ee-441e-a268-77abb776483a",
                 "resourcePath": "views\\33218db6-093c-4bff-8205-7b597be6bbbe.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "373105b4-7f6b-4c1e-b380-137d1cc28240",
+            "Value": {
+                "id": "dfd203ce-d75e-475c-a023-38268b14c623",
+                "resourcePath": "views\\373105b4-7f6b-4c1e-b380-137d1cc28240.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -111,6 +127,14 @@
             }
         },
         {
+            "Key": "78880417-8624-4386-9784-8a0e57edc9cb",
+            "Value": {
+                "id": "c4f6aaf7-f39f-424a-9537-6d5f723176c0",
+                "resourcePath": "views\\78880417-8624-4386-9784-8a0e57edc9cb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7c6b42f8-7016-4633-b3f9-4c346acdca94",
             "Value": {
                 "id": "516321ee-73b4-46b2-8db0-6a3d3352bb6e",
@@ -139,6 +163,14 @@
             "Value": {
                 "id": "e906dbe8-e62c-4c9e-bc51-1bd7263fb7c6",
                 "resourcePath": "views\\976ff209-c630-46db-9029-9ae61be4e459.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a1dd0a71-f278-47d4-b4dc-2f2087afa20d",
+            "Value": {
+                "id": "7f6ae040-d265-465f-9c83-edb65fcc26e9",
+                "resourcePath": "views\\a1dd0a71-f278-47d4-b4dc-2f2087afa20d.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -196,6 +228,14 @@
                 "id": "c6309c3b-1fd9-445c-afbe-cde6598cf658",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e96131ef-98c1-491a-9c9c-79cf3df5d401",
+            "Value": {
+                "id": "f1dfd9e6-5a04-4fc4-acf4-8f263cee33d1",
+                "resourcePath": "views\\e96131ef-98c1-491a-9c9c-79cf3df5d401.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
