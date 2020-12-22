@@ -7,7 +7,8 @@
         "2fa2ae97-318a-4d72-a582-c599e5d53ebc",
         "8df1f530-1375-4011-bdff-d94a44368398",
         "d50cf402-6a3a-4b50-9805-02aa0819f34c",
-        "c7497d16-ac3b-485c-9b09-f6f45866f40b"
+        "c7497d16-ac3b-485c-9b09-f6f45866f40b",
+        "1793085b-d839-43b3-be5e-20696ea1cff9"
     ],
     "filterType": "GMSprite",
     "folderName": "joe",

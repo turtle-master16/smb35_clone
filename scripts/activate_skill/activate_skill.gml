@@ -11,3 +11,5 @@ switch (current_hero) {
 	case HERO.JOE:
 		break;
 }
+
+alarm[2] = room_speed * skill_cooldown;
