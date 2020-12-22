@@ -207,14 +207,6 @@
             }
         },
         {
-            "Key": "55d627ed-ca53-4c21-87a9-be22afa71448",
-            "Value": {
-                "id": "fedf394a-2437-47a8-8bdc-f0f30bc41275",
-                "resourcePath": "views\\55d627ed-ca53-4c21-87a9-be22afa71448.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "5aac5a89-0295-44e9-a2f2-f23a23ccd0fe",
             "Value": {
                 "id": "8ab400e9-eb02-4be3-885b-d7c7b3c74b9c",
@@ -303,14 +295,6 @@
             }
         },
         {
-            "Key": "87c566f6-d48c-4844-bdec-189ab4df3b83",
-            "Value": {
-                "id": "22420312-76ad-4da9-83a8-862d60f39905",
-                "resourcePath": "scripts\\PlayerState_Free\\PlayerState_Free.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "8956fb7a-46e5-406e-8d51-4416902ed773",
             "Value": {
                 "id": "5c4b0a6a-4547-4aea-8464-dae16f208662",
@@ -364,6 +348,14 @@
                 "id": "038cb77f-9b51-45a4-8856-297e451e0770",
                 "resourcePath": "objects\\obj_wood\\obj_wood.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a3614afb-75d5-4f98-b079-d1a2b21c79c8",
+            "Value": {
+                "id": "665699f8-bdb6-4224-bf2e-5ee1ca3e77f4",
+                "resourcePath": "views\\a3614afb-75d5-4f98-b079-d1a2b21c79c8.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -487,11 +479,11 @@
             }
         },
         {
-            "Key": "cd6066cb-539b-4d56-9158-a3935a1a6bac",
+            "Key": "cebfda07-6160-4f0f-b7f2-2c3410ba40a0",
             "Value": {
-                "id": "7fd4da36-bdd5-4eee-bd28-52b3c720452a",
-                "resourcePath": "scripts\\Basic_Player_Movement\\Basic_Player_Movement.yy",
-                "resourceType": "GMScript"
+                "id": "801480ae-7e0a-4cd4-aafd-51fa247e0b6a",
+                "resourcePath": "views\\cebfda07-6160-4f0f-b7f2-2c3410ba40a0.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -559,14 +551,6 @@
             }
         },
         {
-            "Key": "eba75250-0d7e-4999-885e-e8e831f64224",
-            "Value": {
-                "id": "db39a995-a175-4a1b-8915-17d21fe2b40f",
-                "resourcePath": "scripts\\PlayerState_Skill\\PlayerState_Skill.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "ec493d84-6e4e-40ad-9bff-33b0d3b1a125",
             "Value": {
                 "id": "1a1699e7-8b5e-46a5-b74e-b9fecd8fe455",
@@ -587,14 +571,6 @@
             "Value": {
                 "id": "9f8dfa07-32be-4182-8686-4d8db55817c6",
                 "resourcePath": "views\\f48685f4-234b-4b2e-936a-3a37bf3ea532.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f6c81db9-e9b4-4a35-abfd-8aca3c6e113e",
-            "Value": {
-                "id": "8f8f5c6e-4d4b-4add-a522-98a282f5957b",
-                "resourcePath": "views\\f6c81db9-e9b4-4a35-abfd-8aca3c6e113e.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -621,6 +597,14 @@
                 "resourcePath": "views\\fac24917-ad4b-441c-bca4-08d2d386e006.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "ff0b9b5e-6563-4cce-991d-83b60bb0c523",
+            "Value": {
+                "id": "4b311c55-7e24-4bff-92af-9a41a4088979",
+                "resourcePath": "objects\\obj_game_start\\obj_game_start.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
@@ -633,9 +617,6 @@
         "acc02d0a-defe-4e35-8c45-412ff7b884d5",
         "9e515b38-aae4-4045-8459-5b0817a7635f",
         "ea788912-6be1-43c4-8423-8b45a344dcd9",
-        "cd6066cb-539b-4d56-9158-a3935a1a6bac",
-        "87c566f6-d48c-4844-bdec-189ab4df3b83",
-        "eba75250-0d7e-4999-885e-e8e831f64224",
         "4d43bb2d-29d5-423a-97de-78efc196dfad"
     ],
     "tutorial": ""
