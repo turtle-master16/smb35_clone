@@ -26,5 +26,6 @@ enum ANIMATION_STATE {
 
 enum HERO {
 	LAWRENCE,
-	JOE
+	JOE,
+	JUCO
 }

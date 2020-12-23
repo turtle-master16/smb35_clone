@@ -27,6 +27,10 @@ switch (current_hero) {
 		}
 
 		break;
+	case HERO.JUCO:
+		skill_pose_delay = 1.9;
+		create_skeleton();
+		break;
 }
 
 start_skill_cooldown();

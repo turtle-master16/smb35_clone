@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0946ab5d-3b60-4996-b38a-6e901fad0a51",
+            "Value": {
+                "id": "e318f349-fdc9-411d-8595-36a2a5b7cd4e",
+                "resourcePath": "scripts\\create_skeleton\\create_skeleton.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "096f6ef5-0004-4503-a160-9bc95ef7ec90",
             "Value": {
                 "id": "175caa8e-f207-4edd-b019-c342f82ce890",
@@ -124,6 +132,14 @@
                 "id": "a0f24bc5-d201-4aa6-b59f-6191739c1771",
                 "resourcePath": "sprites\\spr_lawrence_activating_shield\\spr_lawrence_activating_shield.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1d132bcd-b6ab-42e7-beff-290a20ae782d",
+            "Value": {
+                "id": "bf0ff4a5-aff6-49f5-adda-5ab4879439c4",
+                "resourcePath": "scripts\\move_mob\\move_mob.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -295,6 +311,14 @@
             }
         },
         {
+            "Key": "6d6d6586-c8c7-4733-a3d2-29e2b90284eb",
+            "Value": {
+                "id": "33c82f51-8c74-4b77-8f45-8948db049428",
+                "resourcePath": "objects\\obj_skeleton\\obj_skeleton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "9da38d38-6738-443a-8bd2-d3bbc0f12341",
@@ -383,6 +407,14 @@
             }
         },
         {
+            "Key": "95c637d6-99e8-4fdb-901a-719ad75ccf80",
+            "Value": {
+                "id": "af7f8164-be23-4f24-8e14-c2c888c5b3f9",
+                "resourcePath": "views\\95c637d6-99e8-4fdb-901a-719ad75ccf80.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "96c45215-20c2-46c9-9269-1bb276bff5ba",
             "Value": {
                 "id": "73db7146-caf0-4421-8570-9f160cb927fe",
@@ -407,6 +439,14 @@
             }
         },
         {
+            "Key": "97d260e8-8131-4e63-9cdd-9c679cc1e73e",
+            "Value": {
+                "id": "aa973311-8632-47ec-b752-e8f1c58be5b3",
+                "resourcePath": "views\\97d260e8-8131-4e63-9cdd-9c679cc1e73e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9e515b38-aae4-4045-8459-5b0817a7635f",
             "Value": {
                 "id": "bc699358-712f-4032-bd69-0f3a5eb48053",
@@ -420,6 +460,14 @@
                 "id": "0ad897d0-df39-4742-a9a0-0678ba03921a",
                 "resourcePath": "sprites\\spr_juco_jump\\spr_juco_jump.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a06b401f-1687-48d0-b3b8-ddc084fcd47d",
+            "Value": {
+                "id": "4b0dc591-392d-486e-9ef7-4e7b17abcf37",
+                "resourcePath": "scripts\\update_skeleton_animation\\update_skeleton_animation.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -767,7 +815,10 @@
         "88ce6db0-33a0-4305-9842-865e8eb60452",
         "b9920014-f2a1-4e84-8180-577900c05dfc",
         "96c45215-20c2-46c9-9269-1bb276bff5ba",
-        "4d43bb2d-29d5-423a-97de-78efc196dfad"
+        "4d43bb2d-29d5-423a-97de-78efc196dfad",
+        "1d132bcd-b6ab-42e7-beff-290a20ae782d",
+        "a06b401f-1687-48d0-b3b8-ddc084fcd47d",
+        "0946ab5d-3b60-4996-b38a-6e901fad0a51"
     ],
     "tutorial": ""
 }
