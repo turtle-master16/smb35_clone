@@ -8,7 +8,7 @@ gravity_speed = 3;
 skill_duration = 7;
 
 switch_cooldown = 3;
-skill_cooldown = 7;
+skill_cooldown = 5;
 
 current_hero = HERO.LAWRENCE;
 animation_state = ANIMATION_STATE.IDLE;

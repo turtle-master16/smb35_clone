@@ -3,6 +3,7 @@ switch(current_hero){
 	case HERO.JOE: current_hero = HERO.LAWRENCE; break;
 }
 
-alarm[1] = room_speed * switch_cooldown;
-
 update_hero();
+start_switch_cooldown();
+
+sprite_index = idle_sprite;

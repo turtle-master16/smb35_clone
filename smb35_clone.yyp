@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "88ce6db0-33a0-4305-9842-865e8eb60452",
+            "Value": {
+                "id": "7becb574-37be-461c-a2cd-89d75f0e2446",
+                "resourcePath": "scripts\\start_switch_cooldown\\start_switch_cooldown.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8956fb7a-46e5-406e-8d51-4416902ed773",
             "Value": {
                 "id": "5c4b0a6a-4547-4aea-8464-dae16f208662",
@@ -340,6 +348,14 @@
                 "id": "70b02620-9c72-47e7-90bc-b62f5c34a8ee",
                 "resourcePath": "sprites\\spr_joe_walk\\spr_joe_walk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "96c45215-20c2-46c9-9269-1bb276bff5ba",
+            "Value": {
+                "id": "73db7146-caf0-4421-8570-9f160cb927fe",
+                "resourcePath": "scripts\\is_switch_on_cooldown\\is_switch_on_cooldown.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -387,6 +403,14 @@
             "Value": {
                 "id": "be830227-77b1-4b99-b97f-6c33297f30ca",
                 "resourcePath": "scripts\\get_horizontal_direction\\get_horizontal_direction.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a7d29ac0-a670-4308-bab3-fdc9f403f723",
+            "Value": {
+                "id": "03782127-d74d-4bfa-91ef-9a23aec26fe1",
+                "resourcePath": "scripts\\start_skill_cooldown\\start_skill_cooldown.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -467,6 +491,14 @@
             "Value": {
                 "id": "e63e9f2a-c77b-4571-9486-f14f492f51e2",
                 "resourcePath": "scripts\\update_animation_state\\update_animation_state.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c2d8c9e6-5f2e-41e7-8207-c9bc1c84ed30",
+            "Value": {
+                "id": "41917e6f-f3e8-4627-8c2c-797ed8a9487c",
+                "resourcePath": "scripts\\is_skill_on_cooldown\\is_skill_on_cooldown.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -642,15 +674,19 @@
     "script_order": [
         "cf861454-aa77-4c59-868a-260fab1ffca6",
         "4368190f-d14b-434f-8377-0ef6a40eb9d8",
-        "8defd308-4b89-437e-aae2-6d7ab09232cc",
         "c15cd032-bf2c-404c-9caf-346b0d646c19",
+        "8defd308-4b89-437e-aae2-6d7ab09232cc",
         "1e28b7f2-99e6-4895-9d43-aff390ecbe87",
         "a517ea31-1a3d-4b80-beaf-e05483848c34",
         "acc02d0a-defe-4e35-8c45-412ff7b884d5",
-        "9e515b38-aae4-4045-8459-5b0817a7635f",
         "ea788912-6be1-43c4-8423-8b45a344dcd9",
-        "b9920014-f2a1-4e84-8180-577900c05dfc",
+        "a7d29ac0-a670-4308-bab3-fdc9f403f723",
+        "9e515b38-aae4-4045-8459-5b0817a7635f",
+        "c2d8c9e6-5f2e-41e7-8207-c9bc1c84ed30",
         "18b86f34-ca0e-492a-86f0-aac82b26961e",
+        "88ce6db0-33a0-4305-9842-865e8eb60452",
+        "b9920014-f2a1-4e84-8180-577900c05dfc",
+        "96c45215-20c2-46c9-9269-1bb276bff5ba",
         "4d43bb2d-29d5-423a-97de-78efc196dfad"
     ],
     "tutorial": ""

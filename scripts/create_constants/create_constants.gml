@@ -1,3 +1,5 @@
+#macro INITIAL_INDEX 0
+
 enum DIRECTION {
 	NONE = 0,
 	UP = -1,

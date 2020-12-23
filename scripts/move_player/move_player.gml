@@ -1,5 +1,7 @@
 #region Horizontal Collision
 
+if (animation_state == ANIMATION_STATE.SKILL) { return; }
+
 var horizontal_direction = get_horizontal_direction();
 horizontal_speed = walking_speed * horizontal_direction;
 

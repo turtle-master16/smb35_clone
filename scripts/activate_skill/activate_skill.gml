@@ -1,6 +1,9 @@
+var skill_pose_delay = 0;
 switch (current_hero) {
 	case HERO.LAWRENCE:
 		var shield = instance_create_layer(x, y, "Skill_Effects", obj_lawrence_shield);
+		skill_pose_delay = 1;
+
 		with (shield) {
 			is_initializing = true;
 			player_object = other;
@@ -9,7 +12,23 @@ switch (current_hero) {
 		break;
 		
 	case HERO.JOE:
+		var is_standing_on_ground = has_ground_collision(x, y + sign(DIRECTION.DOWN));
+		skill_pose_delay = 1.8;
+		vertical_speed = 0;
+		
+		while (!is_standing_on_ground) {
+			y += sign(DIRECTION.DOWN);
+			is_standing_on_ground = has_ground_collision(x, y + sign(DIRECTION.DOWN));
+		}
+		
+		if (instance_exists(obj_lawrence_shield)) {
+			var shield = instance_find(obj_lawrence_shield, INITIAL_INDEX);
+			shield.visible = false;
+		}
+
 		break;
 }
 
-alarm[2] = room_speed * skill_cooldown;
+start_skill_cooldown();
+sprite_index = skill_sprite;
+alarm[0] = room_speed * skill_pose_delay;
