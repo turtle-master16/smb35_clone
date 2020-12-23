@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "5deb27c7-ea71-4bfc-b88b-770c770f4401",
+            "Value": {
+                "id": "3ff36441-5d93-4e23-b635-f017da909eaf",
+                "resourcePath": "scripts\\despawn_skeleton\\despawn_skeleton.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5ef9f11d-616e-40bf-8341-0b6712cdac95",
             "Value": {
                 "id": "1ede8307-654e-4cec-936c-5b8e8ec71f19",
@@ -460,6 +468,14 @@
                 "id": "0ad897d0-df39-4742-a9a0-0678ba03921a",
                 "resourcePath": "sprites\\spr_juco_jump\\spr_juco_jump.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9f161d46-11b5-4450-9690-fac840fbac6a",
+            "Value": {
+                "id": "c56e102c-35d5-4bf0-9494-9d965103274f",
+                "resourcePath": "scripts\\start_skeleton_lifespan\\start_skeleton_lifespan.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -818,7 +834,9 @@
         "4d43bb2d-29d5-423a-97de-78efc196dfad",
         "1d132bcd-b6ab-42e7-beff-290a20ae782d",
         "a06b401f-1687-48d0-b3b8-ddc084fcd47d",
-        "0946ab5d-3b60-4996-b38a-6e901fad0a51"
+        "0946ab5d-3b60-4996-b38a-6e901fad0a51",
+        "9f161d46-11b5-4450-9690-fac840fbac6a",
+        "5deb27c7-ea71-4bfc-b88b-770c770f4401"
     ],
     "tutorial": ""
 }
