@@ -2,7 +2,7 @@
     "id": "1793085b-d839-43b3-be5e-20696ea1cff9",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_joe_activate_skill_hitbox",
+    "name": "spr_joe_earthquake_hitbox",
     "For3D": false,
     "HTile": false,
     "VTile": false,

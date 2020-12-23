@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "04aa9488-e6e0-4b9a-9bfe-5664ba3f2616",
+            "Value": {
+                "id": "fa31ae05-aad6-4642-b52f-18fa5ada0076",
+                "resourcePath": "sprites\\spr_juco_spawn_skeleton\\spr_juco_spawn_skeleton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "06b4d4cc-ab4b-491e-8d2b-a2e43cfb7f53",
             "Value": {
                 "id": "16ec4f0c-5d9d-4bd9-af23-95e8ab582684",
@@ -98,7 +106,7 @@
             "Key": "1793085b-d839-43b3-be5e-20696ea1cff9",
             "Value": {
                 "id": "72c4dc05-be79-43ed-b651-a46d7d5441a0",
-                "resourcePath": "sprites\\spr_joe_activate_skill_hitbox\\spr_joe_activate_skill_hitbox.yy",
+                "resourcePath": "sprites\\spr_joe_earthquake_hitbox\\spr_joe_earthquake_hitbox.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -131,6 +139,14 @@
             "Value": {
                 "id": "29d30a7f-d41c-42ee-af06-67351a0c4f1a",
                 "resourcePath": "sprites\\spr_wood\\spr_wood.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "26e36e37-14c5-4f33-b626-85856a68ac48",
+            "Value": {
+                "id": "9d5da044-c3bc-4f05-8c7f-a757de76787d",
+                "resourcePath": "sprites\\spr_juco_skeleton_walk\\spr_juco_skeleton_walk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -191,6 +207,14 @@
             }
         },
         {
+            "Key": "4301612f-eeb7-47d2-9080-37bd85069a74",
+            "Value": {
+                "id": "12e0e1d6-48cf-4b2d-9ac2-faeac31da434",
+                "resourcePath": "sprites\\spr_juco_activate_skill\\spr_juco_activate_skill.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4368190f-d14b-434f-8377-0ef6a40eb9d8",
             "Value": {
                 "id": "2557d50e-04f8-431e-8014-8dfeeb4ba931",
@@ -212,6 +236,14 @@
                 "id": "b6ae2a69-4af2-49f4-8539-1f9a6f556d11",
                 "resourcePath": "views\\47e8fde1-b4fc-4dba-9a69-7294aded2a97.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "484f2aef-8942-4a90-9364-28b17743a954",
+            "Value": {
+                "id": "e97564e8-c842-444a-923f-818ff07b4f02",
+                "resourcePath": "sprites\\spr_juco_skeleton_attack\\spr_juco_skeleton_attack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -359,6 +391,14 @@
             }
         },
         {
+            "Key": "975103f2-e8a0-495d-9c90-7e674787b70c",
+            "Value": {
+                "id": "7789e708-2427-4a25-9237-4dc6d400b12f",
+                "resourcePath": "sprites\\spr_juco_idle\\spr_juco_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "976ff209-c630-46db-9029-9ae61be4e459",
             "Value": {
                 "id": "e906dbe8-e62c-4c9e-bc51-1bd7263fb7c6",
@@ -372,6 +412,14 @@
                 "id": "bc699358-712f-4032-bd69-0f3a5eb48053",
                 "resourcePath": "scripts\\is_skill_activating\\is_skill_activating.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9e7fa5b5-fdda-45d4-a6ab-709c35b49448",
+            "Value": {
+                "id": "0ad897d0-df39-4742-a9a0-0678ba03921a",
+                "resourcePath": "sprites\\spr_juco_jump\\spr_juco_jump.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -455,6 +503,14 @@
             }
         },
         {
+            "Key": "b207cfe5-220b-4e2a-b2f5-9fb57db8774c",
+            "Value": {
+                "id": "0d4dcb3e-3fa1-4263-ae92-904f77198bf2",
+                "resourcePath": "views\\b207cfe5-220b-4e2a-b2f5-9fb57db8774c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b2f17541-709c-4a2f-a3e7-038b2198472f",
             "Value": {
                 "id": "44b30d13-4602-4447-b185-08c339b70a31",
@@ -467,6 +523,14 @@
             "Value": {
                 "id": "504a3850-58a2-4b43-8e53-8d28b88353b5",
                 "resourcePath": "sprites\\spr_lawrence_breaking_shield\\spr_lawrence_breaking_shield.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b869b9e7-b1b0-46fd-a32f-982710fc9a99",
+            "Value": {
+                "id": "32361580-47be-436a-9f99-d313d276e553",
+                "resourcePath": "sprites\\spr_juco_walk\\spr_juco_walk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -583,6 +647,14 @@
             }
         },
         {
+            "Key": "e7c330fb-27fa-456f-9f56-3a70bf1ee141",
+            "Value": {
+                "id": "d6911ce4-7b64-4fbb-bc28-bce62b3428c9",
+                "resourcePath": "views\\e7c330fb-27fa-456f-9f56-3a70bf1ee141.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e7e3c444-994f-4485-be8f-733842f7cc01",
             "Value": {
                 "id": "b6d46310-7e24-415a-93f9-844870f21098",
@@ -644,6 +716,14 @@
                 "id": "1701dc23-8691-4221-947d-f71c76e8068c",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "f8779571-1c25-42c5-b5be-b235c8d903fd",
+            "Value": {
+                "id": "7075e4a0-231b-46c6-be2b-0807e7a539c5",
+                "resourcePath": "views\\f8779571-1c25-42c5-b5be-b235c8d903fd.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
