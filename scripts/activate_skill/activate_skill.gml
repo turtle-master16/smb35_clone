@@ -1,7 +1,7 @@
 var skill_pose_delay = 0;
 switch (current_hero) {
 	case HERO.LAWRENCE:
-		var shield = instance_create_layer(x, y, "Skill_Effects", obj_lawrence_shield);
+		var shield = instance_create_layer(x, y, "Player", obj_lawrence_shield);
 		skill_pose_delay = 1;
 
 		with (shield) {
