@@ -2,7 +2,7 @@ horizontal_speed = 0;
 vertical_speed = 0;
 
 walking_speed = 25;
-jumping_speed = 50;
+jumping_speed = 70;
 gravity_speed = 3;
 
 skill_duration = 7;

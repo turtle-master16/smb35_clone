@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "7a1f2330-382f-47dc-8b10-e3d728d19bd5",
+            "Value": {
+                "id": "8262c23e-74a6-46e3-b452-376b26addfd8",
+                "resourcePath": "scripts\\has_pipe_collision\\has_pipe_collision.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "7c6b42f8-7016-4633-b3f9-4c346acdca94",
             "Value": {
                 "id": "516321ee-73b4-46b2-8db0-6a3d3352bb6e",
@@ -973,6 +981,7 @@
         "9f161d46-11b5-4450-9690-fac840fbac6a",
         "5deb27c7-ea71-4bfc-b88b-770c770f4401",
         "4368190f-d14b-434f-8377-0ef6a40eb9d8",
+        "7a1f2330-382f-47dc-8b10-e3d728d19bd5",
         "4d43bb2d-29d5-423a-97de-78efc196dfad"
     ],
     "tutorial": ""
