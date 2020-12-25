@@ -12,6 +12,10 @@ if (is_switching_hero()) {
 	animation_state = ANIMATION_STATE.SKILL;
 	activate_skill();
 
+} else if (is_climbing()) {
+	sprite_index = idle_sprite;
+	animation_state = ANIMATION_STATE.IDLE;
+	
 } else if (animation_state != ANIMATION_STATE.JUMP && !is_standing_on_surface) {
 	sprite_index = jumping_sprite;
 	animation_state = ANIMATION_STATE.JUMP;

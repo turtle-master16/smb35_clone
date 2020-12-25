@@ -23,7 +23,8 @@ vertical_speed += gravity_speed;
 
 var vertical_direction = sign(vertical_speed);
 
-if (has_ground_collision(x, y + vertical_speed)) {
+if (is_climbing()) { vertical_speed = climbing_speed * sign(DIRECTION.UP); }
+else if (has_ground_collision(x, y + vertical_speed)) {
 	vertical_speed = 0;
 	
 	while(!has_ground_collision(x, y + vertical_direction)) {
