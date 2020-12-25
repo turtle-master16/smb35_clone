@@ -66,7 +66,7 @@
             "Key": "0946ab5d-3b60-4996-b38a-6e901fad0a51",
             "Value": {
                 "id": "e318f349-fdc9-411d-8595-36a2a5b7cd4e",
-                "resourcePath": "scripts\\create_skeleton\\create_skeleton.yy",
+                "resourcePath": "scripts\\start_skeleton_spawn_timer\\start_skeleton_spawn_timer.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -452,6 +452,14 @@
                 "id": "5c4b0a6a-4547-4aea-8464-dae16f208662",
                 "resourcePath": "sprites\\spr_lawrence_activate_skill\\spr_lawrence_activate_skill.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "89a64527-c093-4863-8aa6-a31b04d3bbfe",
+            "Value": {
+                "id": "35781f32-d464-454c-88b8-c0f48f086bfb",
+                "resourcePath": "scripts\\create_skeleton\\create_skeleton.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -959,6 +967,7 @@
         "b9920014-f2a1-4e84-8180-577900c05dfc",
         "96c45215-20c2-46c9-9269-1bb276bff5ba",
         "1d132bcd-b6ab-42e7-beff-290a20ae782d",
+        "89a64527-c093-4863-8aa6-a31b04d3bbfe",
         "a06b401f-1687-48d0-b3b8-ddc084fcd47d",
         "0946ab5d-3b60-4996-b38a-6e901fad0a51",
         "9f161d46-11b5-4450-9690-fac840fbac6a",

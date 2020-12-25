@@ -1,4 +1,4 @@
-#region Horizontal Collisio
+#region Horizontal Collision
 
 var horizontal_direction = sign(horizontal_speed);
 
