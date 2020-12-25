@@ -1,8 +1,8 @@
 {
-    "id": "a06b401f-1687-48d0-b3b8-ddc084fcd47d",
+    "id": "ec61649e-3a1e-4fac-a464-e54ff9c34afd",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "update_skeleton_animation",
+    "name": "create_hitbox",
     "IsCompatibility": false,
     "IsDnD": false
 }

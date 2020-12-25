@@ -1,13 +1,14 @@
-horizontal_speed = 0;
-vertical_speed = 0;
-
-walking_speed = 5;
-gravity_speed = 1;
+event_inherited();
 
 lifespan = 10;
 
+state = MOB_STATE.SPAWN;
+invincible = true;
+
 spawning_sprite = spr_juco_spawn_skeleton;
 walking_sprite = spr_juco_skeleton_walk;
-attaking_sprite = spr_juco_skeleton_attack;
+attacking_sprite = spr_juco_skeleton_attack;
+
+hitbox_sprite = spr_juco_skeleton_attack_hitbox;
 
 start_skeleton_lifespan();
