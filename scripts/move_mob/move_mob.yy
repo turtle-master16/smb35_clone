@@ -1,5 +1,5 @@
 {
-    "id": "1d132bcd-b6ab-42e7-beff-290a20ae782d",
+    "id": "c498147e-5cce-4af9-b7b0-f5071167a4ce",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "move_mob",

@@ -29,3 +29,8 @@ enum HERO {
 	JOE,
 	JUCO
 }
+enum MOB_STATE {
+	SPAWN,
+	PATROL,
+	ATTACK
+}
