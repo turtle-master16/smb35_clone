@@ -1,7 +1,6 @@
 switch(state){
 	case MOB_STATE.SPAWN:
 		if(spawning_done()){
-			sprite_index = walking_sprite;
 			invincible = false;
 			state = MOB_STATE.PATROL;
 		}

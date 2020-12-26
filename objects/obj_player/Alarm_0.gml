@@ -1,3 +1,4 @@
+/// @description Return To Idle State
 animation_state = ANIMATION_STATE.IDLE;
 sprite_index = idle_sprite;
 

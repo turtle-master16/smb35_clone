@@ -8,10 +8,10 @@ target_enemy = (team == obj_ally_mob ? obj_enemy_mob : obj_ally_mob);
 
 hp = 2;
 
-walking_speed = 20;
+walking_speed = 15;
 gravity_speed = 3;
 
-state = MOB_STATE.PATROL;
+state = noone;
 
 spawning_sprite = noone;
 

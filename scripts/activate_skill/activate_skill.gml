@@ -25,11 +25,11 @@ switch (current_hero) {
 			var shield = instance_find(obj_lawrence_shield, INITIAL_INDEX);
 			shield.visible = false;
 		}
-
 		break;
+		
 	case HERO.JUCO:
 		skill_pose_delay = 1.9;
-		create_skeleton();
+		alarm[3] = room_speed * skill_pose_delay;
 		break;
 }
 
