@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "1290b2fb-62cb-4cfd-babe-132a5d28a0b8",
+            "Value": {
+                "id": "3e8428a9-df2e-419b-8bbc-60434eaa3d98",
+                "resourcePath": "scripts\\create_death_particles\\create_death_particles.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "12c1d6b9-b31a-4477-997f-48fb078d0786",
             "Value": {
                 "id": "f98efc21-95c9-4619-af71-c96508bdf28c",
@@ -364,6 +372,14 @@
                 "id": "3729e673-02ee-441e-a268-77abb776483a",
                 "resourcePath": "views\\33218db6-093c-4bff-8205-7b597be6bbbe.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3838def2-76d6-44a3-b075-5225203d5394",
+            "Value": {
+                "id": "204e5d40-4ad9-4e94-aae2-a67d0e62b0dd",
+                "resourcePath": "sprites\\spr_death_partcle\\spr_death_partcle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -708,6 +724,14 @@
                 "id": "3960c28f-40ab-4fb3-8b58-ab2b9aa08e43",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "80ce0e71-5e7c-4104-b685-be2def846eb8",
+            "Value": {
+                "id": "35916bfb-ff3e-4103-8730-6b87494d5ab2",
+                "resourcePath": "objects\\obj_death_particle\\obj_death_particle.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1591,7 +1615,8 @@
         "7a1f2330-382f-47dc-8b10-e3d728d19bd5",
         "c9d5fe73-59e2-4b1a-a692-5d86d9639d57",
         "4d43bb2d-29d5-423a-97de-78efc196dfad",
-        "ec61649e-3a1e-4fac-a464-e54ff9c34afd"
+        "ec61649e-3a1e-4fac-a464-e54ff9c34afd",
+        "1290b2fb-62cb-4cfd-babe-132a5d28a0b8"
     ],
     "tutorial": ""
 }
