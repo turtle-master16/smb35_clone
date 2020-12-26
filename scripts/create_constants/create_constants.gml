@@ -24,11 +24,17 @@ enum ANIMATION_STATE {
 	SKILL
 }
 
+enum BUTTON_STATE {
+	PRESSED,
+	UNPRESSED
+}
+
 enum HERO {
 	LAWRENCE,
 	JOE,
 	JUCO
 }
+
 enum MOB_STATE {
 	SPAWN,
 	PATROL,
