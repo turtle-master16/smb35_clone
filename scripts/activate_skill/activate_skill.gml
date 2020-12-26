@@ -21,6 +21,8 @@ switch (current_hero) {
 			is_standing_on_ground = has_ground_collision(x, y + sign(DIRECTION.DOWN));
 		}
 		
+		create_hitbox(x, y, id, spr_joe_earthquake_hitbox, 60, 2);
+		
 		if (instance_exists(obj_lawrence_shield)) {
 			var shield = instance_find(obj_lawrence_shield, INITIAL_INDEX);
 			shield.visible = false;

@@ -11,6 +11,7 @@ skill_duration = 7;
 switch_cooldown = 0 //3;
 skill_cooldown =  0	//5;
 
+team = obj_ally_mob;
 current_hero = HERO.LAWRENCE;
 animation_state = ANIMATION_STATE.IDLE;
 
