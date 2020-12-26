@@ -575,6 +575,14 @@
             }
         },
         {
+            "Key": "56e95491-ac06-45ad-b41a-889cf269c449",
+            "Value": {
+                "id": "36774649-4834-44f2-b3ad-5486968a3fa8",
+                "resourcePath": "sprites\\spr_boss_genshin_attack_hitbox\\spr_boss_genshin_attack_hitbox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "576d62a7-83ab-4216-9d46-acb03d65de70",
             "Value": {
                 "id": "07d680c7-b7dd-490c-8fb7-2c3249f1f8a2",
@@ -724,6 +732,14 @@
                 "id": "3960c28f-40ab-4fb3-8b58-ab2b9aa08e43",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "7e990d95-94a9-4db6-a7f5-4c2745ad1c6a",
+            "Value": {
+                "id": "1e4f7f0e-edf1-47fc-9320-171454c6404c",
+                "resourcePath": "views\\7e990d95-94a9-4db6-a7f5-4c2745ad1c6a.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1585,6 +1601,7 @@
     ],
     "script_order": [
         "cf861454-aa77-4c59-868a-260fab1ffca6",
+        "1290b2fb-62cb-4cfd-babe-132a5d28a0b8",
         "c15cd032-bf2c-404c-9caf-346b0d646c19",
         "8defd308-4b89-437e-aae2-6d7ab09232cc",
         "1e28b7f2-99e6-4895-9d43-aff390ecbe87",
@@ -1615,8 +1632,7 @@
         "7a1f2330-382f-47dc-8b10-e3d728d19bd5",
         "c9d5fe73-59e2-4b1a-a692-5d86d9639d57",
         "4d43bb2d-29d5-423a-97de-78efc196dfad",
-        "ec61649e-3a1e-4fac-a464-e54ff9c34afd",
-        "1290b2fb-62cb-4cfd-babe-132a5d28a0b8"
+        "ec61649e-3a1e-4fac-a464-e54ff9c34afd"
     ],
     "tutorial": ""
 }

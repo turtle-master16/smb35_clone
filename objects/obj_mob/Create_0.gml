@@ -15,5 +15,4 @@ state = noone;
 
 spawning_sprite = noone;
 
-hitbox = noone;
 hitbox_sprite = noone;
