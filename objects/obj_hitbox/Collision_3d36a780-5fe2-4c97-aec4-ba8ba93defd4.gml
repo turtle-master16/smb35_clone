@@ -1,7 +1,7 @@
 /// @description Damage Enemy
 var mob = other;
 
-if(is_owner_dead()){
+if(!is_owner_dead()){
 	var is_ally = (owner.team == mob.team);
 	var is_own_collision = (owner == other);
 	

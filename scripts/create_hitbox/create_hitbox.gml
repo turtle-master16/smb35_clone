@@ -1,7 +1,7 @@
-/// @description create_hitbox(x, y, creator, sprite, lifespan, damage)
+/// @description create_hitbox(x, y, onwer, sprite, lifespan, damage)
 /// @param x
 /// @param y
-/// @param creator
+/// @param owner
 /// @param sprite
 /// @param lifespan
 /// @param damage
@@ -20,4 +20,3 @@ hitbox.sprite_index = sprite;
 hitbox.owner = owner;
 hitbox.alarm[0] = lifespan;
 hitbox.damage = damage;
-show_debug_message("Created");

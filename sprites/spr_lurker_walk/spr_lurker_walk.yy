@@ -62,7 +62,7 @@
     ],
     "gridX": 0,
     "gridY": 0,
-    "height": 100,
+    "height": 263,
     "layers": [
         {
             "id": "8d1ac8f4-15dd-4fa9-bf31-920fd05e632f",
@@ -76,7 +76,7 @@
             "visible": true
         }
     ],
-    "origin": 7,
+    "origin": 9,
     "originLocked": true,
     "playbackSpeed": 2,
     "playbackSpeedType": 0,
@@ -86,7 +86,7 @@
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
-    "width": 133,
-    "xorig": 66,
-    "yorig": 99
+    "width": 350,
+    "xorig": 175,
+    "yorig": 260
 }

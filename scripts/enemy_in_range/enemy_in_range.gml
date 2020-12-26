@@ -2,7 +2,7 @@
 /// @param  Enemy to check
 
 var nearby_enemy = argument0;
-var attack_range = 50;
+var attack_range = 20;
 
 if (instance_exists(nearby_enemy)) {
 	
