@@ -1,4 +1,3 @@
-/// @description Damage Enemy
 var mob = other;
 if(!is_owner_dead()){
 	var is_ally = (owner.team == mob.team);
@@ -12,7 +11,8 @@ if(!is_owner_dead()){
 			
 			hp -= hitbox.damage;
 			invincible = true;
-			alarm[2] = room_speed * invincibility_duration;
+			alarm[4] = room_speed * invincibility_duration;
+			show_debug_message(hp)
 			if(hp <= 0) instance_destroy();
 		}
 	}
