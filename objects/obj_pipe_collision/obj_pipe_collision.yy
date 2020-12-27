@@ -22,7 +22,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "cbc59dc7-a2c2-4631-9deb-3852085e9a91",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "next_room",
+            "varType": 5
+        }
+    ],
     "solid": false,
     "spriteId": "cd2bf53e-4945-4f1c-95cf-2de800916f1d",
     "visible": false
