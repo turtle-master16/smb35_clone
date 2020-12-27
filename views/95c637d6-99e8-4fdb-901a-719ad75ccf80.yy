@@ -10,7 +10,8 @@
         "1b41aefd-43fa-488f-925e-3ffe344ab23a",
         "a2044d56-2a1d-43a2-9fb1-3d7de9c21ce5",
         "576d62a7-83ab-4216-9d46-acb03d65de70",
-        "97d260e8-8131-4e63-9cdd-9c679cc1e73e"
+        "97d260e8-8131-4e63-9cdd-9c679cc1e73e",
+        "0e9f1e40-fa1a-4575-943a-7c7b68494024"
     ],
     "filterType": "GMScript",
     "folderName": "mob_scripts",

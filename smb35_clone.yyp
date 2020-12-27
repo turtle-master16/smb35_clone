@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "0e9f1e40-fa1a-4575-943a-7c7b68494024",
+            "Value": {
+                "id": "5341651b-b643-4c44-bf2e-61e107efcc3a",
+                "resourcePath": "views\\0e9f1e40-fa1a-4575-943a-7c7b68494024.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "1290b2fb-62cb-4cfd-babe-132a5d28a0b8",
             "Value": {
                 "id": "3e8428a9-df2e-419b-8bbc-60434eaa3d98",
@@ -188,6 +196,14 @@
                 "id": "72c4dc05-be79-43ed-b651-a46d7d5441a0",
                 "resourcePath": "sprites\\spr_joe_earthquake_hitbox\\spr_joe_earthquake_hitbox.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "17c70176-cb55-4ce5-8d41-afcb64c48394",
+            "Value": {
+                "id": "cddffb18-c637-4a45-9d53-e955a80c3a95",
+                "resourcePath": "scripts\\debris_drop\\debris_drop.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -759,6 +775,14 @@
             }
         },
         {
+            "Key": "83178b4c-e6a8-4ad9-b1d4-56e2ecd98872",
+            "Value": {
+                "id": "5d1e5ab0-09df-44e9-976e-feadacd626f7",
+                "resourcePath": "objects\\obj_debris_attack\\obj_debris_attack.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "fe6b93bf-1fad-4258-8363-9e6719e59d8e",
@@ -1063,6 +1087,14 @@
             }
         },
         {
+            "Key": "a955f0be-c9f4-4765-aebe-64b2a4ba684c",
+            "Value": {
+                "id": "ab72cae9-fa98-4b5d-ac49-c118d786abca",
+                "resourcePath": "sprites\\spr_boss_genshin_debris_drop\\spr_boss_genshin_debris_drop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "aad6b44c-dc75-4901-8ad0-4e25e986282f",
             "Value": {
                 "id": "6363e7bb-2d21-488e-8559-ebbac6241291",
@@ -1175,6 +1207,14 @@
             }
         },
         {
+            "Key": "b91e1ce3-1df6-4aad-99db-830bf62444c2",
+            "Value": {
+                "id": "cc8f70fd-7086-4b13-bd46-629b07ed7a03",
+                "resourcePath": "scripts\\chance\\chance.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b9920014-f2a1-4e84-8180-577900c05dfc",
             "Value": {
                 "id": "554a805e-75a1-425f-9860-fbe5e555bdb7",
@@ -1271,11 +1311,27 @@
             }
         },
         {
+            "Key": "cbd45f58-fd7b-4a00-8f88-90d20e7435e6",
+            "Value": {
+                "id": "79e006d3-7123-4c91-b5c6-161f7a1afaca",
+                "resourcePath": "sprites\\spr_debris_attack\\spr_debris_attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "3377fc9d-9f67-49ae-a911-fc4ba842b391",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd16b2c5-3ef6-4fcc-85aa-52a1829f77e8",
+            "Value": {
+                "id": "bfd2e6dd-f680-4bbf-bb05-f92636295035",
+                "resourcePath": "objects\\obj_boss_genshin\\obj_boss_genshin.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1628,11 +1684,13 @@
         "0946ab5d-3b60-4996-b38a-6e901fad0a51",
         "9f161d46-11b5-4450-9690-fac840fbac6a",
         "5deb27c7-ea71-4bfc-b88b-770c770f4401",
+        "17c70176-cb55-4ce5-8d41-afcb64c48394",
         "4368190f-d14b-434f-8377-0ef6a40eb9d8",
         "7a1f2330-382f-47dc-8b10-e3d728d19bd5",
         "c9d5fe73-59e2-4b1a-a692-5d86d9639d57",
         "4d43bb2d-29d5-423a-97de-78efc196dfad",
-        "ec61649e-3a1e-4fac-a464-e54ff9c34afd"
+        "ec61649e-3a1e-4fac-a464-e54ff9c34afd",
+        "b91e1ce3-1df6-4aad-99db-830bf62444c2"
     ],
     "tutorial": ""
 }

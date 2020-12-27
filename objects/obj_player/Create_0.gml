@@ -6,6 +6,8 @@ jumping_speed = 70;
 climbing_speed = 25;
 gravity_speed = 3;
 
+hp = 3;
+
 skill_duration = 7;
 
 switch_cooldown = 0 //3;
