@@ -6,7 +6,8 @@
     "children": [
         "ecb8217d-6488-4162-af93-23eba2b817df",
         "e9f9db45-cb5b-4cb4-b096-1d05e939b0b8",
-        "33192063-7b96-4589-a237-1f1a478c0bee"
+        "33192063-7b96-4589-a237-1f1a478c0bee",
+        "854978cf-a341-4766-b87a-83d8cdc3f04e"
     ],
     "filterType": "GMSprite",
     "folderName": "slime",

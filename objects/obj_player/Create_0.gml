@@ -6,11 +6,15 @@ jumping_speed = 70;
 climbing_speed = 25;
 gravity_speed = 3;
 
+invincible = false;
+hp = 3;
+
 skill_duration = 7;
 
 switch_cooldown = 0 //3;
 skill_cooldown =  0	//5;
 
+team = obj_ally_mob;
 current_hero = HERO.LAWRENCE;
 animation_state = ANIMATION_STATE.IDLE;
 

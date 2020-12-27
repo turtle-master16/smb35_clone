@@ -2,6 +2,8 @@ event_inherited();
 
 lifespan = 10;
 
+hp = 20;
+
 state = MOB_STATE.SPAWN;
 invincible = true;
 
