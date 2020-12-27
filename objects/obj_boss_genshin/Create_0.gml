@@ -7,6 +7,7 @@ attacking_sprite = spr_boss_genshin_attack;
 image_xscale = -1;
 
 hitbox_sprite = spr_boss_genshin_attack_hitbox;
+walked_distance = 0;
 
 state = BOSS_STATE.SKILL;
 skill_delay = 3;
