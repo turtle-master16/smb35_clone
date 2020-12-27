@@ -1,6 +1,7 @@
-/// @description Put Mob in hit state
+/// @description Damage Enemy
+var mob = other;
+
 if(is_owner_dead()){
-	var mob = other;
 	var is_ally = (owner.team == mob.team);
 	var is_own_collision = (owner == other);
 	
@@ -12,7 +13,6 @@ if(is_owner_dead()){
 			var invincibility_duration = 1;
 			
 			hp -= hitbox.damage;
-			show_debug_message(string(hp));
 			invincible = true;
 			alarm[2] = room_speed * invincibility_duration;
 			

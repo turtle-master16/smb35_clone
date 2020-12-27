@@ -1,2 +1,2 @@
-/// @description Insert description here
+/// @description Destroy Hitbox
 instance_destroy();

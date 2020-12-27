@@ -20,4 +20,4 @@ hitbox.sprite_index = sprite;
 hitbox.owner = owner;
 hitbox.alarm[0] = lifespan;
 hitbox.damage = damage;
-
+show_debug_message("Created");
