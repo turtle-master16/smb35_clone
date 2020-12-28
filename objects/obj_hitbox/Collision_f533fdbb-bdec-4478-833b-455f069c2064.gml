@@ -9,11 +9,9 @@ if(!is_owner_dead()){
 			var hitbox = other;
 			var invincibility_duration = 1;
 			
-			hp -= hitbox.damage;
+			obj_game.hp -= hitbox.damage;
 			invincible = true;
-			alarm[4] = room_speed * invincibility_duration;
-			show_debug_message(hp)
-			if(hp <= 0){ }// game over 
+			if(!alarm[4]) alarm[4] = room_speed * invincibility_duration;
 		}
 	}
 }

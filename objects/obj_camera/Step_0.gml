@@ -1,3 +1,5 @@
+if(!instance_exists(target)) return;
+
 var camera_view = view_camera[0];
 
 var camera_min_x = -800;
