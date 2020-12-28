@@ -242,7 +242,7 @@
         },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Instances",
+            "name": "Game",
             "id": "c52a5fbf-f97c-407d-8adf-e7f2684d500f",
             "depth": 100,
             "grid_x": 32,
