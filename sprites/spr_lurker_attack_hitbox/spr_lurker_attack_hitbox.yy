@@ -6,9 +6,9 @@
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 280,
+    "bbox_bottom": 0,
     "bbox_left": 0,
-    "bbox_right": 499,
+    "bbox_right": 0,
     "bbox_top": 0,
     "bboxmode": 0,
     "colkind": 0,
@@ -260,7 +260,7 @@
             "blendMode": 0,
             "isLocked": false,
             "name": "hb",
-            "opacity": 50,
+            "opacity": 0,
             "visible": true
         },
         {

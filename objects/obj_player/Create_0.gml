@@ -1,8 +1,8 @@
 horizontal_speed = 0;
 vertical_speed = 0;
 
-walking_speed = 25;
-jumping_speed = 70;
+walking_speed = 28;
+jumping_speed = 75;
 climbing_speed = 25;
 gravity_speed = 3;
 
@@ -10,8 +10,8 @@ invincible = false;
 
 skill_duration = 7;
 
-switch_cooldown = 0 //3;
-skill_cooldown =  0	//5;
+switch_cooldown = 3;
+skill_cooldown =  5;
 
 team = obj_ally_mob;
 current_hero = HERO.LAWRENCE;

@@ -6,8 +6,8 @@
     "children": [
         "b8859cf7-61b7-432d-9090-4af322ba8449",
         "8bb1a16e-74b5-4554-8a6a-63727f45f85f",
-        "05e4a3c1-a3f5-4bc9-bb63-b033f528d049",
-        "0caa93a4-0f03-495f-8a78-665786e7230d"
+        "0caa93a4-0f03-495f-8a78-665786e7230d",
+        "05e4a3c1-a3f5-4bc9-bb63-b033f528d049"
     ],
     "filterType": "GMSprite",
     "folderName": "skeleton",
