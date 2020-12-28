@@ -14,7 +14,14 @@ enum KEY_BINDINGS {
 	DOWN = ord("S"),
 	RIGHT = ord("D"),
 	SWITCH = ord("Q"),
-	SKILL = ord("E")
+	SKILL = ord("E"),
+	ESCAPE = vk_escape
+}
+
+enum GAME_POINTS {
+	COIN = 100,
+	ENEMY_DEATH = 500,
+	EXTRA_TIME = 120
 }
 
 enum ANIMATION_STATE {

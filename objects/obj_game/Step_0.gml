@@ -1,5 +1,5 @@
-if(keyboard_check_pressed(vk_enter)){
-	if(room == room_game_over){
-		game_restart();
-	}
+var is_player_dead = (hp <= 0);
+
+if (!is_game_win && is_player_dead || !is_game_timer_ticking()) {
+	execute_game_over();
 }
