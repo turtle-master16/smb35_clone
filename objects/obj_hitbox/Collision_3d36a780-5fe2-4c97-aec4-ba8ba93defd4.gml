@@ -13,6 +13,7 @@ if(!is_owner_dead()){
 			hp -= hitbox.damage;
 			invincible = true;
 			alarm[2] = room_speed * invincibility_duration;
+			show_debug_message(hp);
 			if(hp <= 0) instance_destroy();
 		}
 	}

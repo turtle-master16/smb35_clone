@@ -10,7 +10,14 @@
 			x += horizontal_direction;	
 		}
 	}
-
+	if (place_meeting(x+horizontal_speed, y, obj_invisible_wall)) {
+		horizontal_speed *= -1;
+		image_xscale *= -1;
+		while(!place_meeting(x+horizontal_speed, y, obj_invisible_wall)) {
+			x += horizontal_direction;	
+		}
+	}
+	
 	x += horizontal_speed;
 
 	#endregion

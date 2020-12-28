@@ -2,8 +2,12 @@ var skill_pose_delay = 0;
 switch (current_hero) {
 	case HERO.LAWRENCE:
 		var shield = instance_create_layer(x, y, "Skill_Effects", obj_lawrence_shield);
+		var shield_duration = 7;
 		skill_pose_delay = 1;
-
+		
+		invincible = true;
+		alarm[4] = room_speed * shield_duration;
+		
 		with (shield) {
 			is_initializing = true;
 			player_object = other;
