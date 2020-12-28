@@ -15,6 +15,7 @@ var damage = argument5;
 var xscale = owner.image_xscale;
 
 var hitbox = instance_create_depth(x_postition, y_postition, 0, obj_hitbox);
+hitbox.image_alpha = 0.1;
 hitbox.image_xscale = xscale;
 hitbox.sprite_index = sprite;
 hitbox.owner = owner;

@@ -86,7 +86,7 @@
             "blendMode": 0,
             "isLocked": false,
             "name": "hb",
-            "opacity": 50,
+            "opacity": 10,
             "visible": true
         },
         {

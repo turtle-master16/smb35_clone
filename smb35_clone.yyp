@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "149d8fa9-d971-4c67-a8b8-1fd9af510a6b",
+            "Value": {
+                "id": "f7eb6e67-79a8-49d6-8b84-93f2b1b67461",
+                "resourcePath": "scripts\\approach_player\\approach_player.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1507bf72-7545-4ef9-ab82-d7538256e529",
             "Value": {
                 "id": "e560286d-0db0-4775-b283-9996688bd9c7",
@@ -319,6 +327,14 @@
             }
         },
         {
+            "Key": "1ba83a7d-2b38-42ad-9660-417b28f6b745",
+            "Value": {
+                "id": "2373799f-735b-4e54-8776-c84aa0846fc7",
+                "resourcePath": "scripts\\disable_shake\\disable_shake.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1be45f15-7ef5-424d-8377-7ef9c553d84d",
             "Value": {
                 "id": "5e48c3d4-b1ea-42b9-8f32-5aedfc88fcd7",
@@ -375,6 +391,14 @@
             }
         },
         {
+            "Key": "22a58c51-29f0-4de9-a14b-41dc09d41f40",
+            "Value": {
+                "id": "b0d27e34-4389-4d95-ac72-dbbf331b2d42",
+                "resourcePath": "rooms\\room_level_3D\\room_level_3D.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2452bb9d-3feb-4f4c-a2ae-25e8b6d6008e",
             "Value": {
                 "id": "65c10afd-8077-44e1-98f2-6d86fb86bfbb",
@@ -388,6 +412,14 @@
                 "id": "a4b0e536-a51a-4861-99ee-56b0262ab523",
                 "resourcePath": "objects\\obj_button_left\\obj_button_left.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "25ea79f4-6835-453a-9b26-4107feffd791",
+            "Value": {
+                "id": "0d77f952-f5be-4c25-af03-9cc4459a9130",
+                "resourcePath": "scripts\\jump\\jump.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -420,6 +452,14 @@
                 "id": "4ade76ee-4549-4168-b9ef-5535e8142203",
                 "resourcePath": "sprites\\spr_juco_skeleton_walk\\spr_juco_skeleton_walk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "299e5000-6af5-4616-a215-ccd0d839b3a4",
+            "Value": {
+                "id": "dc2721b7-d147-4081-aece-194323651fbe",
+                "resourcePath": "scripts\\approach\\approach.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1671,14 +1711,6 @@
             }
         },
         {
-            "Key": "aae8173b-b9a0-4421-8adb-f20d5e453e27",
-            "Value": {
-                "id": "a476de60-d14c-470b-ac6f-b99fcca02f4f",
-                "resourcePath": "rooms\\room_level_3D\\room_level_3D.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "abf938cb-8b74-4e9e-9a03-8e3a343a1c14",
             "Value": {
                 "id": "6269ba90-8c42-4217-a20d-03d6ab128bbd",
@@ -2477,6 +2509,8 @@
         "5deb27c7-ea71-4bfc-b88b-770c770f4401",
         "17c70176-cb55-4ce5-8d41-afcb64c48394",
         "2beb36b9-3ec0-41cf-bd8f-fcbbaa2d067f",
+        "149d8fa9-d971-4c67-a8b8-1fd9af510a6b",
+        "25ea79f4-6835-453a-9b26-4107feffd791",
         "4368190f-d14b-434f-8377-0ef6a40eb9d8",
         "c9d5fe73-59e2-4b1a-a692-5d86d9639d57",
         "7a1f2330-382f-47dc-8b10-e3d728d19bd5",
@@ -2484,7 +2518,9 @@
         "4d43bb2d-29d5-423a-97de-78efc196dfad",
         "ec61649e-3a1e-4fac-a464-e54ff9c34afd",
         "b91e1ce3-1df6-4aad-99db-830bf62444c2",
-        "1290b2fb-62cb-4cfd-babe-132a5d28a0b8"
+        "299e5000-6af5-4616-a215-ccd0d839b3a4",
+        "1290b2fb-62cb-4cfd-babe-132a5d28a0b8",
+        "1ba83a7d-2b38-42ad-9660-417b28f6b745"
     ],
     "tutorial": ""
 }

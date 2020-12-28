@@ -47,3 +47,8 @@ enum MOB_STATE {
 	PATROL,
 	ATTACK
 }
+
+enum BOSS_STATE{
+	IDLE,
+	SKILL
+}

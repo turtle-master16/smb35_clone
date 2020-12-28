@@ -492,7 +492,7 @@
             "blendMode": 0,
             "isLocked": false,
             "name": "Hitbox",
-            "opacity": 50,
+            "opacity": 5,
             "visible": true
         },
         {
