@@ -1,5 +1,6 @@
 event_inherited();
 
+owner = obj_player;
 lifespan = 10;
 
 hp = 20;

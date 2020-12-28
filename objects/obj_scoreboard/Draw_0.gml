@@ -3,7 +3,7 @@ var text_label = "";
 var score_size = 5;
 var index = 0;
 repeat(score_size) {
-	text_label += obj_game.scores_to_display[index] + "\n";
+	text_label += string(obj_game.scores_to_display[index]) + "\n";
 	index += 1;
 }
 
